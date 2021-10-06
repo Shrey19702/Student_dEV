@@ -1,0 +1,70 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    /* background-image: url('bg.jpeg'); */
+    background-color: #040f23;
+    overflow: hidden;
+    height: 100vh;
+    font-family: 'Roboto', sans-serif;
+
+}
+.taskbar{
+    background-color: #f3f3f3;
+    width: 100%;
+    position: absolute;
+    bottom: 0;
+    display: flex;
+    z-index: 110;
+    justify-content: center;
+}
+.startmenu{
+    position: absolute;
+    /* bottom: 50px; */
+    bottom: -655px;
+    width: 100%;
+    text-align: center;
+    transition: all 0.5s ease-in;
+}
+.startmenu img{
+    border-radius: 8px;
+}
+.icons{
+    position: absolute;
+    height: 300px;
+    text-align: center;
+    width: 100px;
+
+}
+
+.i{
+    margin-top: 40px;
+}
+p{
+    font-size: 14px;
+    color: white;
+}
+
+.i1{
+width: 80px;
+}
+.i2{
+    width: 50px;
+    top: 90px;
+    left: 10px;
+}
+.i3{
+    width: 40px;
+    top: 190px;
+}
+
+.right{
+    justify-self: flex-end;
+    position: absolute;
+    right: 0;
+    margin: 6px 0;
+    height: 85%;
+}
+
