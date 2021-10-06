@@ -1,5 +1,11 @@
-# LeetCode-Solutions
+# Student-dEV
 
-A repositry containing solutions to LeetCode Questions
-AND
-DSA general questions  
+This Repo is for new,student developers
+you can add your projects, specific codes helpful for beginners
+
+you Projects can be of any language
+- python
+- Web Dev
+- C++
+- android
+- flutter
