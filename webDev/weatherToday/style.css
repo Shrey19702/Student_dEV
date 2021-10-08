@@ -1,0 +1,48 @@
+body {
+    background-color: rgb(231, 231, 191);
+}
+
+.weather-container {
+    text-align: center;
+}
+
+.heading {
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    padding: 20px 10px 15px 10px;
+}
+
+.weather-container {
+    background-color: rgb(235, 235, 100);
+    text-align: center;
+    padding: 10px 15px 10px 15px;
+}
+
+.location {
+    background-color: rgb(236, 235, 136);
+    font-size: 15px;
+    text-align: center;
+    padding: 15px 15px;
+    font-style: oblique;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+img {
+    vertical-align: middle;
+}
+
+span {
+    vertical-align: middle;
+}
+
+.weather {
+    font-size: 22px;
+    margin: 0;
+}
+
+.temp {
+    font-size: 60px;
+    margin: 0;
+    font-weight: bold;
+}
